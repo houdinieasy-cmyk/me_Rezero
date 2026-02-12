@@ -1,0 +1,8 @@
+{
+  "name": "Feruza Bozarova - Personal Philosopher Website",
+  "description": "A sophisticated personal website for a philosopher featuring books, presentations, video lectures, and a philosophical AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
